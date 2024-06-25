@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C0EE8F72-7A0A-48BC-BA55-121391D51A65}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TH03_WebBanHang</RootNamespace>
+    <AssemblyName>TH03_WebBanHang</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.4.3.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.4.3\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.bootstrap">
+      <HintPath>..\packages\AspNet.ScriptManager.bootstrap.3.4.1\lib\net45\AspNet.ScriptManager.bootstrap.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.3.4.1\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account.aspx" />
+    <Content Include="AccountOrder.aspx" />
+    <Content Include="AddAccount.aspx" />
+    <Content Include="AddInfo.aspx" />
+    <Content Include="AddProduct.aspx" />
+    <Content Include="Admin.aspx" />
+    <Content Include="BrandOrder.aspx" />
+    <Content Include="Cart.aspx" />
+    <Content Include="ChangePassword.aspx" />
+    <Content Include="ChildForm.aspx" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Content\account-img\431754389_313660871725236_6382265079110835572_n.jpg" />
+    <Content Include="Content\account-img\admin.png" />
+    <Content Include="Content\account-img\DM_20221210235738_008.jpg" />
+    <Content Include="Content\account-img\DM_20221210235738_017.jpg" />
+    <Content Include="Content\account-img\panda.png" />
+    <Content Include="Content\account-img\user-1.gif" />
+    <Content Include="Content\account-img\user.gif" />
+    <Content Include="Content\account-img\z5268318626634_99841f10331cd53a878beca4ad875958.jpg" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\animate.css" />
+    <Content Include="Content\css\animsition.min.css" />
+    <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\css\daterangepicker.css" />
+    <Content Include="Content\css\font-awesome.min.css" />
+    <Content Include="Content\css\hamburgers.min.css" />
+    <Content Include="Content\css\icon-font.min.css" />
+    <Content Include="Content\css\main.css" />
+    <Content Include="Content\css\select2.min.css" />
+    <Content Include="Content\css\style.css" />
+    <Content Include="Content\css\util.css" />
+    <Content Include="Content\footer-icon\call.png" />
+    <Content Include="Content\footer-icon\email.png" />
+    <Content Include="Content\footer-icon\maps-and-flags.png" />
+    <Content Include="Content\footer-icon\certificate.png" />
+    <Content Include="Content\footer-icon\old\email.png" />
+    <Content Include="Content\footer-icon\old\maps-and-flags.png" />
+    <Content Include="Content\footer-icon\p-call.png" />
+    <Content Include="Content\footer-icon\p-certificate.png" />
+    <Content Include="Content\footer-icon\p-email.png" />
+    <Content Include="Content\footer-icon\p-pin.png" />
+    <Content Include="Content\footer-icon\pin.png" />
+    <Content Include="Content\icon-group-jpop\AREA15.png" />
+    <Content Include="Content\icon-group-jpop\HoloAdvent.png" />
+    <Content Include="Content\icon-group-jpop\HoloFantasy.png" />
+    <Content Include="Content\icon-group-jpop\HoloFirstGen.png" />
+    <Content Include="Content\icon-group-jpop\HoloForce.png" />
+    <Content Include="Content\icon-group-jpop\HoloGamer.png" />
+    <Content Include="Content\icon-group-jpop\HoloH3ro.png" />
+    <Content Include="Content\icon-group-jpop\HoloMyth.png" />
+    <Content Include="Content\icon-group-jpop\HoloPromise.png" />
+    <Content Include="Content\icon-group-jpop\HoloRo.png" />
+    <Content Include="Content\icon-group-jpop\HoloX.png" />
+    <Content Include="Content\icon-group-jpop\HoloZeroOG.png" />
+    <Content Include="Content\icon-group-jpop\NePoLaBo.png" />
+    <Content Include="Content\icon-group-jpop\ReGLOSS.png" />
+    <Content Include="Content\icon-group-kpop\aespa.png" />
+    <Content Include="Content\icon-group-kpop\babymonster.png" />
+    <Content Include="Content\icon-group-kpop\blackpink.png" />
+    <Content Include="Content\icon-group-kpop\bts.png" />
+    <Content Include="Content\icon-group-kpop\exid.png" />
+    <Content Include="Content\icon-group-kpop\illit.png" />
+    <Content Include="Content\icon-group-kpop\itzy.png" />
+    <Content Include="Content\icon-group-kpop\iu.png" />
+    <Content Include="Content\icon-group-kpop\ive.png" />
+    <Content Include="Content\icon-group-kpop\kep1er.png" />
+    <Content Include="Content\icon-group-kpop\le sserafim.png" />
+    <Content Include="Content\icon-group-kpop\newjeans.png" />
+    <Content Include="Content\icon-group-kpop\nmixx.png" />
+    <Content Include="Content\icon-group-kpop\ohmygirl.png" />
+    <Content Include="Content\icon-group-kpop\redvelvet.png" />
+    <Content Include="Content\icon-group-kpop\somi.png" />
+    <Content Include="Content\icon-group-kpop\tempest.png" />
+    <Content Include="Content\icon-group-kpop\twice.png" />
+    <Content Include="Content\icon-group-kpop\viviz.png" />
+    <Content Include="Content\icon-show\1.png" />
+    <Content Include="Content\icon-show\2.png" />
+    <Content Include="Content\icon-show\4.png" />
+    <Content Include="Content\icon-show\AREA15.png" />
+    <Content Include="Content\icon-show\HoloAdvent.png" />
+    <Content Include="Content\icon-show\HoloFantasy.png" />
+    <Content Include="Content\icon-show\HoloFirstGen.png" />
+    <Content Include="Content\icon-show\HoloForce.png" />
+    <Content Include="Content\icon-show\HoloGamer.png" />
+    <Content Include="Content\icon-show\HoloH3ro.png" />
+    <Content Include="Content\icon-show\HoloMyth.png" />
+    <Content Include="Content\icon-show\HoloPromise.png" />
+    <Content Include="Content\icon-show\HoloRo.png" />
+    <Content Include="Content\icon-show\HoloX.png" />
+    <Content Include="Content\icon-show\HoloZeroOG.png" />
+    <Content Include="Content\icon-show\HOT.gif" />
+    <Content Include="Content\icon-show\NePoLaBo.png" />
+    <Content Include="Content\icon-show\new.gif" />
+    <Content Include="Content\icon-show\ReGLOSS.png" />
+    <Content Include="Content\icon\add-cart.png" />
+    <Content Include="Content\icon\add-to-cart.png" />
+    <Content Include="Content\icon\back.png" />
+    <Content Include="Content\icon\bo_cong_thuong_grande.png" />
+    <Content Include="Content\icon\branch.png" />
+    <Content Include="Content\icon\camera.png" />
+    <Content Include="Content\icon\cart.png" />
+    <Content Include="Content\icon\close-g.png" />
+    <Content Include="Content\icon\close.png" />
+    <Content Include="Content\icon\eye.png" />
+    <Content Include="Content\icon\facebook.png" />
+    <Content Include="Content\icon\g-minus.png" />
+    <Content Include="Content\icon\g-plus.png" />
+    <Content Include="Content\icon\icon-pr.gif" />
+    <Content Include="Content\icon-show\Inkigayo_Logo_2018.png" />
+    <Content Include="Content\icon-show\Music_Bank_2019_logo.png" />
+    <Content Include="Content\icon-show\Show!_Music_Core.png" />
+    <Content Include="Content\icon\instagram.png" />
+    <Content Include="Content\icon\location.png" />
+    <Content Include="Content\icon\loupe.png" />
+    <Content Include="Content\icon\Maccount.png" />
+    <Content Include="Content\icon\mail.png" />
+    <Content Include="Content\icon\minus.png" />
+    <Content Include="Content\icon\money.png" />
+    <Content Include="Content\icon\more.png" />
+    <Content Include="Content\icon\Mproduct-3.png" />
+    <Content Include="Content\icon\Mproduct.png" />
+    <Content Include="Content\icon\Mrevenue.png" />
+    <Content Include="Content\icon\next-page.png" />
+    <Content Include="Content\icon\next.png" />
+    <Content Include="Content\icon\operation.png" />
+    <Content Include="Content\icon\p-add-cart.png" />
+    <Content Include="Content\icon\p-cart.png" />
+    <Content Include="Content\icon\p-search.png" />
+    <Content Include="Content\icon\p-Success.gif" />
+    <Content Include="Content\icon\p-user.png" />
+    <Content Include="Content\icon\package.png" />
+    <Content Include="Content\icon\phone-call.png" />
+    <Content Include="Content\icon\placeholder.png" />
+    <Content Include="Content\icon\plus.png" />
+    <Content Include="Content\icon\previous-page.png" />
+    <Content Include="Content\icon\qr-code.png" />
+    <Content Include="Content\icon\qr-thanh-toan.jpg" />
+    <Content Include="Content\icon\remove.png" />
+    <Content Include="Content\icon\search.png" />
+    <Content Include="Content\icon\size57-add-cart.png" />
+    <Content Include="Content\icon\Success.gif" />
+    <Content Include="Content\icon\sz-add-cart.png" />
+    <Content Include="Content\icon\user.png" />
+    <Content Include="Content\icon\w-location.png" />
+    <Content Include="Content\icon\w-mail.png" />
+    <Content Include="Content\icon\w-phone-call.png" />
+    <Content Include="Content\image-bg\2.png" />
+    <Content Include="Content\image-bg\3.png" />
+    <Content Include="Content\image-bg\4.png" />
+    <Content Include="Content\image-bg\5.png" />
+    <Content Include="Content\image-bg\6.jpg" />
+    <Content Include="Content\image-bg\account-background-img.jpg" />
+    <Content Include="Content\image-bg\AREA15.png" />
+    <Content Include="Content\image-bg\back.png" />
+    <Content Include="Content\image-bg\background-sp.png" />
+    <Content Include="Content\image-bg\background.png" />
+    <Content Include="Content\image-bg\content-bg.png" />
+    <Content Include="Content\image-bg\cuahang3.png" />
+    <Content Include="Content\image-bg\galaxy.png" />
+    <Content Include="Content\image-bg\hinh-nen-phong-canh-anime-1.png" />
+    <Content Include="Content\image-bg\HoloAdvent.png" />
+    <Content Include="Content\image-bg\HoloFantasy.png" />
+    <Content Include="Content\image-bg\HoloFirstGen.png" />
+    <Content Include="Content\image-bg\HoloForce.png" />
+    <Content Include="Content\image-bg\HoloGamer.png" />
+    <Content Include="Content\image-bg\HoloH3ro.png" />
+    <Content Include="Content\image-bg\HoloMyth.png" />
+    <Content Include="Content\image-bg\HoloPromise.png" />
+    <Content Include="Content\image-bg\HoloRo.png" />
+    <Content Include="Content\image-bg\HoloX.png" />
+    <Content Include="Content\image-bg\HoloZeroOG.png" />
+    <Content Include="Content\image-bg\JStore-bg.png" />
+    <Content Include="Content\image-bg\NePoLaBo.png" />
+    <Content Include="Content\image-bg\ReGLOSS.png" />
+    <Content Include="Content\image-branch\cuahang.png" />
+    <Content Include="Content\image-branch\cuahang2.png" />
+    <Content Include="Content\image-branch\cuahang3.png" />
+    <Content Include="Content\image-branch\cuahang4.png" />
+    <Content Include="Content\image-branch\cuahang5.png" />
+    <Content Include="Content\image-branch\KGCH.png" />
+    <Content Include="Content\image-branch\KGCH2.png" />
+    <Content Include="Content\image-group-jpop\AREA15.png" />
+    <Content Include="Content\image-group-jpop\HoloAdvent.png" />
+    <Content Include="Content\image-group-jpop\HoloFantasy.png" />
+    <Content Include="Content\image-group-jpop\HoloFirstGen.png" />
+    <Content Include="Content\image-group-jpop\HoloForce.png" />
+    <Content Include="Content\image-group-jpop\HoloGamer.png" />
+    <Content Include="Content\image-group-jpop\HoloH3ro.png" />
+    <Content Include="Content\image-group-jpop\HoloMyth.png" />
+    <Content Include="Content\image-group-jpop\HoloPromise.png" />
+    <Content Include="Content\image-group-jpop\HoloRo.png" />
+    <Content Include="Content\image-group-jpop\HoloX.png" />
+    <Content Include="Content\image-group-jpop\HoloZeroOG.png" />
+    <Content Include="Content\image-group-jpop\NePoLaBo.png" />
+    <Content Include="Content\image-group-jpop\ReGLOSS.png" />
+    <Content Include="Content\image-group-kpop\aespa.png" />
+    <Content Include="Content\image-group-kpop\blackpink.png" />
+    <Content Include="Content\image-group-kpop\bts.png" />
+    <Content Include="Content\image-group-kpop\illit.png" />
+    <Content Include="Content\image-group-kpop\itzy.png" />
+    <Content Include="Content\image-group-kpop\iu.png" />
+    <Content Include="Content\image-group-kpop\ive.png" />
+    <Content Include="Content\image-group-kpop\kep1er.png" />
+    <Content Include="Content\image-group-kpop\le sserafim.png" />
+    <Content Include="Content\image-group-kpop\newjeans.png" />
+    <Content Include="Content\image-group-kpop\nmixx.png" />
+    <Content Include="Content\image-group-kpop\somi.png" />
+    <Content Include="Content\image-group-kpop\tempest.png" />
+    <Content Include="Content\image-group-kpop\twice.png" />
+    <Content Include="Content\items\aespa\alb\BouquetVer_750x.png" />
+    <Content Include="Content\items\aespa\alb\GISELLEVer_750x.png" />
+    <Content Include="Content\items\aespa\alb\KARINAVer_750x.png" />
+    <Content Include="Content\items\aespa\alb\NINGNINGVer_750x.png" />
+    <Content Include="Content\items\aespa\alb\SequenceVer.CoverImage_750x.png" />
+    <Content Include="Content\items\aespa\alb\WINTERVer_750x.png" />
+    <Content Include="Content\items\aespa\blr&amp;cd\s-l1600.jpg" />
+    <Content Include="Content\items\aespa\md\aespa-official-fanlight-lightstick-sgs-exclusive-random-photo-card-629323_720x.png" />
+    <Content Include="Content\items\aespa\ptb\aespa_1stcon_photobook.jpg" />
+    <Content Include="Content\items\aespa\ssg\sg-11134201-23010-24z0jaxwe9lva9.jpg" />
+    <Content Include="Content\items\babymonster\alb\aJDDCb.png" />
+    <Content Include="Content\items\babymonster\ptb\sg-11134207-7rcfc-ltaeia2h5hfo07.jpg" />
+    <Content Include="Content\items\bts\alb\proof.png" />
+    <Content Include="Content\items\bts\alb\proof1.png" />
+    <Content Include="Content\items\bts\alb\proofNote.png" />
+    <Content Include="Content\items\bts\alb\proofNote2.png" />
+    <Content Include="Content\items\illit\alb\spReal.png" />
+    <Content Include="Content\items\illit\alb\spReal1.png" />
+    <Content Include="Content\items\iu\alb\albLovePoem.png" />
+    <Content Include="Content\items\iu\alb\albLovePoem1.png" />
+    <Content Include="Content\items\iu\alb\albLovePoem2.png" />
+    <Content Include="Content\items\iu\alb\albLovePoemNote.png" />
+    <Content Include="Content\items\iu\alb\albLovePoemNote2.png" />
+    <Content Include="Content\items\iu\md\29th.png" />
+    <Content Include="Content\items\iu\md\29th1.png" />
+    <Content Include="Content\items\iu\md\29th2.png" />
+    <Content Include="Content\items\iu\md\29th3.png" />
+    <Content Include="Content\logo\favicon-32x32.png" />
+    <Content Include="Content\logo\JPopStore.jpg" />
+    <Content Include="Content\logo\JPopStore.mp4" />
+    <Content Include="Content\logo\jpopstore.png" />
+    <Content Include="Content\logo\jshop.gif" />
+    <Content Include="Content\logo\jshop.jpg" />
+    <Content Include="Content\logo\jshop.png" />
+    <Content Include="Content\logo\kstore_edited.jpg" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Content\video\Gmilk Tea Introduce.mp4" />
+    <Content Include="Content\video\hanni-dance.mp4" />
+    <Content Include="Default.aspx" />
+    <Content Include="DeleteAccount.aspx" />
+    <Content Include="DeleteOrder.aspx" />
+    <Content Include="DeleteProduct.aspx" />
+    <Content Include="DetailOrder.aspx" />
+    <Content Include="DetailOrderAll.aspx" />
+    <Content Include="Error.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Forgot.aspx" />
+    <Content Include="GetPermission.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Item.aspx" />
+    <Content Include="ManagerAccount.aspx" />
+    <Content Include="ManagerBranch.aspx" />
+    <Content Include="ManagerOrder.aspx" />
+    <Content Include="ManagerProduct.aspx" />
+    <Content Include="ManagerRevenue.aspx" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\icon-show\3.png" />
+    <EntityDeploy Include="Models\VNlocal.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>VNlocal.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\Model.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model.edmx</DependentUpon>
+      <LastGenOutput>Model.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\Model.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model.edmx</DependentUpon>
+      <LastGenOutput>Model.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\VNlocal.edmx.diagram">
+      <DependentUpon>VNlocal.edmx</DependentUpon>
+    </Content>
+    <EntityDeploy Include="Models\Model.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\Model.edmx.diagram">
+      <DependentUpon>Model.edmx</DependentUpon>
+    </Content>
+    <None Include="Properties\PublishProfiles\beduc102-001-site1 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\beduc102-001-site1 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Models\VNlocal.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>VNlocal.edmx</DependentUpon>
+      <LastGenOutput>VNlocal.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\VNlocal.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>VNlocal.edmx</DependentUpon>
+      <LastGenOutput>VNlocal.cs</LastGenOutput>
+    </Content>
+    <Content Include="OrderNotification.aspx" />
+    <Content Include="Pay.aspx" />
+    <Content Include="PayCard.aspx" />
+    <Content Include="PayQR.aspx" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <Content Include="Scripts\js\jquery-1.7.1.min.js" />
+    <Content Include="Scripts\js\prefixfree.js" />
+    <Content Include="Scripts\js\script.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="SignIn.aspx" />
+    <Content Include="SignUp.aspx" />
+    <Content Include="Site.Master" />
+    <Content Include="Success.aspx" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Web.config" />
+    <Content Include="Bundle.config" />
+    <Content Include="Site.Mobile.Master" />
+    <Content Include="Shop.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.aspx.cs">
+      <DependentUpon>Account.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account.aspx.designer.cs">
+      <DependentUpon>Account.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccountOrder.aspx.cs">
+      <DependentUpon>AccountOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccountOrder.aspx.designer.cs">
+      <DependentUpon>AccountOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddAccount.aspx.cs">
+      <DependentUpon>AddAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddAccount.aspx.designer.cs">
+      <DependentUpon>AddAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddInfo.aspx.cs">
+      <DependentUpon>AddInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddInfo.aspx.designer.cs">
+      <DependentUpon>AddInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddProduct.aspx.cs">
+      <DependentUpon>AddProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddProduct.aspx.designer.cs">
+      <DependentUpon>AddProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="BrandOrder.aspx.cs">
+      <DependentUpon>BrandOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BrandOrder.aspx.designer.cs">
+      <DependentUpon>BrandOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cart.aspx.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cart.aspx.designer.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm.aspx.cs">
+      <DependentUpon>ChildForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChildForm.aspx.designer.cs">
+      <DependentUpon>ChildForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteAccount.aspx.cs">
+      <DependentUpon>DeleteAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DeleteAccount.aspx.designer.cs">
+      <DependentUpon>DeleteAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteOrder.aspx.cs">
+      <DependentUpon>DeleteOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DeleteOrder.aspx.designer.cs">
+      <DependentUpon>DeleteOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteProduct.aspx.cs">
+      <DependentUpon>DeleteProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DeleteProduct.aspx.designer.cs">
+      <DependentUpon>DeleteProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetailOrder.aspx.cs">
+      <DependentUpon>DetailOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetailOrder.aspx.designer.cs">
+      <DependentUpon>DetailOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetailOrderAll.aspx.cs">
+      <DependentUpon>DetailOrderAll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetailOrderAll.aspx.designer.cs">
+      <DependentUpon>DetailOrderAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forgot.aspx.cs">
+      <DependentUpon>Forgot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forgot.aspx.designer.cs">
+      <DependentUpon>Forgot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GetPermission.aspx.cs">
+      <DependentUpon>GetPermission.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GetPermission.aspx.designer.cs">
+      <DependentUpon>GetPermission.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Hepler.cs" />
+    <Compile Include="Item.aspx.cs">
+      <DependentUpon>Item.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Item.aspx.designer.cs">
+      <DependentUpon>Item.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerAccount.aspx.cs">
+      <DependentUpon>ManagerAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManagerAccount.aspx.designer.cs">
+      <DependentUpon>ManagerAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerBranch.aspx.cs">
+      <DependentUpon>ManagerBranch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManagerBranch.aspx.designer.cs">
+      <DependentUpon>ManagerBranch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerOrder.aspx.cs">
+      <DependentUpon>ManagerOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManagerOrder.aspx.designer.cs">
+      <DependentUpon>ManagerOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerProduct.aspx.cs">
+      <DependentUpon>ManagerProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManagerProduct.aspx.designer.cs">
+      <DependentUpon>ManagerProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerRevenue.aspx.cs">
+      <DependentUpon>ManagerRevenue.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManagerRevenue.aspx.designer.cs">
+      <DependentUpon>ManagerRevenue.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Banner.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ChiNhanh.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ChiTietDonHang.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DanhGia.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\devvn_quanhuyen.cs">
+      <DependentUpon>VNlocal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\devvn_tinhthanhpho.cs">
+      <DependentUpon>VNlocal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\devvn_xaphuongthitran.cs">
+      <DependentUpon>VNlocal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DonHang.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\KhachHang.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Loai.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Nhom.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SanPham.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SanPhamData.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\TK.cs">
+      <DependentUpon>Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\VNlocal.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VNlocal.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\VNlocal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VNlocal.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\VNlocal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VNlocal.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderNotification.aspx.cs">
+      <DependentUpon>OrderNotification.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderNotification.aspx.designer.cs">
+      <DependentUpon>OrderNotification.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pay.aspx.cs">
+      <DependentUpon>Pay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pay.aspx.designer.cs">
+      <DependentUpon>Pay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PayCard.aspx.cs">
+      <DependentUpon>PayCard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PayCard.aspx.designer.cs">
+      <DependentUpon>PayCard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PayQR.aspx.cs">
+      <DependentUpon>PayQR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PayQR.aspx.designer.cs">
+      <DependentUpon>PayQR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shop.Master.cs">
+      <DependentUpon>Shop.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shop.Master.designer.cs">
+      <DependentUpon>Shop.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn.aspx.cs">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SignIn.aspx.designer.cs">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.aspx.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SignUp.aspx.designer.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Success.aspx.cs">
+      <DependentUpon>Success.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Success.aspx.designer.cs">
+      <DependentUpon>Success.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Content\image-banner\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52718</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:52718/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
