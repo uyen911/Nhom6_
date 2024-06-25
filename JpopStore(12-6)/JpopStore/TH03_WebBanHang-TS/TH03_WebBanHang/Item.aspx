@@ -410,8 +410,7 @@
 
     </ItemTemplate>
 </asp:ListView>
-                            </div>
-                <script>
+                            </div><script>
 									  function hideLSRating() {
 
 										  var ratingElement = document.getElementById('idRating');
@@ -433,7 +432,7 @@
                         </style>
 
             </div>
-            <div id="idRating" class="flex-column flex-md-row fade-out" style="padding:10px; background: linear-gradient(to right, #522A77 //#3468A0, #2a2e77); border-radius:10px;  height:max-content; margin:auto;  margin:1rem auto; gap:1rem;">
+                                        <div id="idRating" class="flex-column flex-md-row fade-out" style="padding:10px; background: linear-gradient(to right, #522A77 //#3468A0, #2a2e77); border-radius:10px;  height:max-content; margin:auto;  margin:1rem auto; gap:1rem;">
                                         <asp:HiddenField ID="ratingValue" runat="server" />
                     <script>
 

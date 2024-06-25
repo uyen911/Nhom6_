@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\vippr\Dropbox\PC\Downloads\JpopStore(22-6)\JpopStore(12-6)\JpopStore\TH03_WebBanHang-TS\TH03_WebBanHang\Models\Model.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\JpopStore(12-6)\JpopStore\TH03_WebBanHang-TS\TH03_WebBanHang\Models\Model1.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

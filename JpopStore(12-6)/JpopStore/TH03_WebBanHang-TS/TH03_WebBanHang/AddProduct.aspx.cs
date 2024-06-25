@@ -489,7 +489,7 @@ namespace TH03_WebBanHang
         //                // Tạo SanPhamData với đường dẫn ảnh phụ
         //                //CreateSanPhamData(additionalImagePaths);
 
-        //                //string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+        //                //string dataSource = "LAPTOP-229FFV57\\PU";
         //                //string initialCatalog = "QL_JPOPStore";
         //                //string sqlTK = "sa";
         //                //string sqlMK = "1";
@@ -547,7 +547,7 @@ namespace TH03_WebBanHang
         protected void btnAddProduct_Click(object sender, EventArgs e)
         {
             // Xác định chuỗi kết nối
-            string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+            string dataSource = "LAPTOP-229FFV57\\PU";
             string initialCatalog = "QL_JPOPStore";
             string sqlTK = "sa";
             string sqlMK = "1";
@@ -682,7 +682,7 @@ namespace TH03_WebBanHang
         //protected void btnAddProduct_Click(object sender, EventArgs e)
         //{
         //    // Xác định chuỗi kết nối
-        //    string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+        //    string dataSource = "LAPTOP-229FFV57\\PU";
         //    string initialCatalog = "QL_JPOPStore";
         //    string sqlTK = "sa";
         //    string sqlMK = "1";

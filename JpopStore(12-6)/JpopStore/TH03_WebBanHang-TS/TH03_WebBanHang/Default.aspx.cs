@@ -37,18 +37,6 @@ namespace TH03_WebBanHang
             
 
         }
-        public IQueryable<TH03_WebBanHang.Models.Banner> GetBanner()
-        {
-            var allBanner = dbcontext.Banners.OrderBy(s => s.MaBanner);/*.OrderByDescending(v => v.NgayDangBV).Take(4)*/
-            var distinct = allBanner.GroupBy(v => v.MaBanner)
-                                .Select(g => g.FirstOrDefault())
-                                .ToList();
-            return distinct.AsQueryable();
-
-
-
-
-        }
 
         // The return type can be changed to IEnumerable, however to support
         // paging and sorting, the following parameters must be added:

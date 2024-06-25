@@ -315,7 +315,7 @@ namespace TH03_WebBanHang
             string sp = HttpContext.Current.Request.QueryString.Get("sp");
             if (dbcontext.SanPhams.Any(s => s.MaSP == sp))
             {
-                string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+                string dataSource = "LAPTOP-229FFV57\\PU";
                 string initialCatalog = "QL_JPOPStore";
                 string sqlTK = "sa";
                 string sqlMK = "1";
@@ -340,7 +340,7 @@ namespace TH03_WebBanHang
         }
         private void BindLoaiListView()
         {
-            string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+            string dataSource = "LAPTOP-229FFV57\\PU";
             string initialCatalog = "QL_JPOPStore";
             string sqlTK = "sa";
             string sqlMK = "1";
@@ -677,7 +677,7 @@ namespace TH03_WebBanHang
                     if (dbcontext.SanPhams.Any(s => s.MaSP == sp))
                     {
                         productId = sp; // Giả sử đây là ID của sản phẩm
-                        string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+                        string dataSource = "LAPTOP-229FFV57\\PU";
                         string initialCatalog = "QL_JPOPStore";
                         string sqlTK = "sa";
                         string sqlMK = "1";
@@ -897,7 +897,7 @@ namespace TH03_WebBanHang
                         if (dbcontext.SanPhams.Any(s => s.MaSP == sp))
                         {
                             productId = sp; // Giả sử đây là ID của sản phẩm
-                            string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+                            string dataSource = "LAPTOP-229FFV57\\PU";
                             string initialCatalog = "QL_JPOPStore";
                             string sqlTK = "sa";
                             string sqlMK = "1";

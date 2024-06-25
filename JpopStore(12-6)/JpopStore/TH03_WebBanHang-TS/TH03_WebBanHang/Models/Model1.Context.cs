@@ -34,7 +34,6 @@ namespace TH03_WebBanHang.Models
         public DbSet<Nhom> Nhoms { get; set; }
         public DbSet<SanPham> SanPhams { get; set; }
         public DbSet<TK> TKs { get; set; }
-        public DbSet<Banner> Banners { get; set; }
         public DbSet<SanPhamData> SanPhamDatas { get; set; }
     }
 }

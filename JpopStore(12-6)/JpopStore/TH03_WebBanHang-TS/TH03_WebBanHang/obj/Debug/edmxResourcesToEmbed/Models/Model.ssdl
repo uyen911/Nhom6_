@@ -1,16 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="QL_JPOPStoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
-  <!--Errors Found During Generation:
-warning 6002: The table/view 'QL_JPOPStore.dbo.Banner' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
-  <EntityType Name="Banner">
-    <Key>
-      <PropertyRef Name="MaBanner" />
-      <PropertyRef Name="NgayDangBV" />
-    </Key>
-    <Property Name="MaBanner" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="DuongDan" Type="varchar(max)" />
-    <Property Name="NgayDangBV" Type="datetime" Nullable="false" />
-  </EntityType>
   <EntityType Name="ChiNhanh">
     <Key>
       <PropertyRef Name="MaCN" />
@@ -139,7 +128,7 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
     <Property Name="Quyen" Type="nvarchar" MaxLength="50" />
     <Property Name="TrangThai" Type="bit" />
   </EntityType>
-  <Association Name="FK__ChiTietDon__MaDH__3A81B327">
+  <Association Name="FK__ChiTietDon__MaDH__38996AB5">
     <End Role="DonHang" Type="Self.DonHang" Multiplicity="1" />
     <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
     <ReferentialConstraint>
@@ -151,7 +140,7 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <Association Name="FK__ChiTietDon__MaSP__3B75D760">
+  <Association Name="FK__ChiTietDon__MaSP__398D8EEE">
     <End Role="SanPham" Type="Self.SanPham" Multiplicity="1" />
     <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
     <ReferentialConstraint>
@@ -163,7 +152,7 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <Association Name="FK__DonHang__KH__36B12243">
+  <Association Name="FK__DonHang__KH__34C8D9D1">
     <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
     <End Role="DonHang" Type="Self.DonHang" Multiplicity="*" />
     <ReferentialConstraint>
@@ -319,13 +308,6 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
     <EntitySet Name="Nhom" EntityType="Self.Nhom" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="SanPham" EntityType="Self.SanPham" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="TK" EntityType="Self.TK" Schema="dbo" store:Type="Tables" />
-    <EntitySet Name="Banner" EntityType="Self.Banner" store:Type="Tables" store:Schema="dbo">
-      <DefiningQuery>SELECT 
-[Banner].[MaBanner] AS [MaBanner], 
-[Banner].[DuongDan] AS [DuongDan], 
-[Banner].[NgayDangBV] AS [NgayDangBV]
-FROM [dbo].[Banner] AS [Banner]</DefiningQuery>
-    </EntitySet>
     <EntitySet Name="SanPhamData" EntityType="Self.SanPhamData" store:Type="Tables" store:Schema="dbo">
       <DefiningQuery>SELECT 
 [SanPhamData].[MaSP] AS [MaSP], 
@@ -337,15 +319,15 @@ FROM [dbo].[Banner] AS [Banner]</DefiningQuery>
 [SanPhamData].[AnhNote] AS [AnhNote]
 FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
     </EntitySet>
-    <AssociationSet Name="FK__ChiTietDon__MaDH__3A81B327" Association="Self.FK__ChiTietDon__MaDH__3A81B327">
+    <AssociationSet Name="FK__ChiTietDon__MaDH__38996AB5" Association="Self.FK__ChiTietDon__MaDH__38996AB5">
       <End Role="DonHang" EntitySet="DonHang" />
       <End Role="ChiTietDonHang" EntitySet="ChiTietDonHang" />
     </AssociationSet>
-    <AssociationSet Name="FK__ChiTietDon__MaSP__3B75D760" Association="Self.FK__ChiTietDon__MaSP__3B75D760">
+    <AssociationSet Name="FK__ChiTietDon__MaSP__398D8EEE" Association="Self.FK__ChiTietDon__MaSP__398D8EEE">
       <End Role="SanPham" EntitySet="SanPham" />
       <End Role="ChiTietDonHang" EntitySet="ChiTietDonHang" />
     </AssociationSet>
-    <AssociationSet Name="FK__DonHang__KH__36B12243" Association="Self.FK__DonHang__KH__36B12243">
+    <AssociationSet Name="FK__DonHang__KH__34C8D9D1" Association="Self.FK__DonHang__KH__34C8D9D1">
       <End Role="KhachHang" EntitySet="KhachHang" />
       <End Role="DonHang" EntitySet="DonHang" />
     </AssociationSet>

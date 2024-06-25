@@ -5,17 +5,6 @@
     <!-- SSDL content -->
     <edmx:StorageModels>
       <Schema Namespace="QL_JPOPStoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
-        <!--Errors Found During Generation:
-warning 6002: The table/view 'QL_JPOPStore.dbo.Banner' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
-        <EntityType Name="Banner">
-          <Key>
-            <PropertyRef Name="MaBanner" />
-            <PropertyRef Name="NgayDangBV" />
-          </Key>
-          <Property Name="MaBanner" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-          <Property Name="DuongDan" Type="varchar(max)" />
-          <Property Name="NgayDangBV" Type="datetime" Nullable="false" />
-        </EntityType>
         <EntityType Name="ChiNhanh">
           <Key>
             <PropertyRef Name="MaCN" />
@@ -144,7 +133,7 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
           <Property Name="Quyen" Type="nvarchar" MaxLength="50" />
           <Property Name="TrangThai" Type="bit" />
         </EntityType>
-        <Association Name="FK__ChiTietDon__MaDH__3A81B327">
+        <Association Name="FK__ChiTietDon__MaDH__4BAC3F29">
           <End Role="DonHang" Type="Self.DonHang" Multiplicity="1" />
           <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
           <ReferentialConstraint>
@@ -156,7 +145,7 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK__ChiTietDon__MaSP__3B75D760">
+        <Association Name="FK__ChiTietDon__MaSP__4CA06362">
           <End Role="SanPham" Type="Self.SanPham" Multiplicity="1" />
           <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
           <ReferentialConstraint>
@@ -168,7 +157,7 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK__DonHang__KH__36B12243">
+        <Association Name="FK__DonHang__KH__47DBAE45">
           <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
           <End Role="DonHang" Type="Self.DonHang" Multiplicity="*" />
           <ReferentialConstraint>
@@ -324,13 +313,6 @@ warning 6002: The table/view 'QL_JPOPStore.dbo.SanPhamData' does not have a prim
           <EntitySet Name="Nhom" EntityType="Self.Nhom" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="SanPham" EntityType="Self.SanPham" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="TK" EntityType="Self.TK" Schema="dbo" store:Type="Tables" />
-          <EntitySet Name="Banner" EntityType="Self.Banner" store:Type="Tables" store:Schema="dbo">
-            <DefiningQuery>SELECT 
-[Banner].[MaBanner] AS [MaBanner], 
-[Banner].[DuongDan] AS [DuongDan], 
-[Banner].[NgayDangBV] AS [NgayDangBV]
-FROM [dbo].[Banner] AS [Banner]</DefiningQuery>
-          </EntitySet>
           <EntitySet Name="SanPhamData" EntityType="Self.SanPhamData" store:Type="Tables" store:Schema="dbo">
             <DefiningQuery>SELECT 
 [SanPhamData].[MaSP] AS [MaSP], 
@@ -342,15 +324,15 @@ FROM [dbo].[Banner] AS [Banner]</DefiningQuery>
 [SanPhamData].[AnhNote] AS [AnhNote]
 FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
           </EntitySet>
-          <AssociationSet Name="FK__ChiTietDon__MaDH__3A81B327" Association="Self.FK__ChiTietDon__MaDH__3A81B327">
+          <AssociationSet Name="FK__ChiTietDon__MaDH__4BAC3F29" Association="Self.FK__ChiTietDon__MaDH__4BAC3F29">
             <End Role="DonHang" EntitySet="DonHang" />
             <End Role="ChiTietDonHang" EntitySet="ChiTietDonHang" />
           </AssociationSet>
-          <AssociationSet Name="FK__ChiTietDon__MaSP__3B75D760" Association="Self.FK__ChiTietDon__MaSP__3B75D760">
+          <AssociationSet Name="FK__ChiTietDon__MaSP__4CA06362" Association="Self.FK__ChiTietDon__MaSP__4CA06362">
             <End Role="SanPham" EntitySet="SanPham" />
             <End Role="ChiTietDonHang" EntitySet="ChiTietDonHang" />
           </AssociationSet>
-          <AssociationSet Name="FK__DonHang__KH__36B12243" Association="Self.FK__DonHang__KH__36B12243">
+          <AssociationSet Name="FK__DonHang__KH__47DBAE45" Association="Self.FK__DonHang__KH__47DBAE45">
             <End Role="KhachHang" EntitySet="KhachHang" />
             <End Role="DonHang" EntitySet="DonHang" />
           </AssociationSet>
@@ -428,8 +410,8 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
           <Property Name="ThanhTien" Type="Double" Nullable="false" />
           <Property Name="Ngay" Type="DateTime" Nullable="false" Precision="3" />
           <Property Name="GiaoDich" Type="Boolean" />
-          <NavigationProperty Name="DonHang" Relationship="Self.FK__ChiTietDon__MaDH__3A81B327" FromRole="ChiTietDonHang" ToRole="DonHang" />
-          <NavigationProperty Name="SanPham" Relationship="Self.FK__ChiTietDon__MaSP__3B75D760" FromRole="ChiTietDonHang" ToRole="SanPham" />
+          <NavigationProperty Name="DonHang" Relationship="Self.FK__ChiTietDon__MaDH__4BAC3F29" FromRole="ChiTietDonHang" ToRole="DonHang" />
+          <NavigationProperty Name="SanPham" Relationship="Self.FK__ChiTietDon__MaSP__4CA06362" FromRole="ChiTietDonHang" ToRole="SanPham" />
           <NavigationProperty Name="DonHang1" Relationship="Self.FK_CTDH_DH" FromRole="ChiTietDonHang" ToRole="DonHang" />
           <NavigationProperty Name="SanPham1" Relationship="Self.FK_GH_SP" FromRole="ChiTietDonHang" ToRole="SanPham" />
         </EntityType>
@@ -466,9 +448,9 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
           <Property Name="DiaChiNN" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
           <Property Name="MaCN" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
           <NavigationProperty Name="ChiNhanh" Relationship="Self.FK_DonHang_ChiNhanh" FromRole="DonHang" ToRole="ChiNhanh" />
-          <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK__ChiTietDon__MaDH__3A81B327" FromRole="DonHang" ToRole="ChiTietDonHang" />
+          <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK__ChiTietDon__MaDH__4BAC3F29" FromRole="DonHang" ToRole="ChiTietDonHang" />
           <NavigationProperty Name="ChiTietDonHangs1" Relationship="Self.FK_CTDH_DH" FromRole="DonHang" ToRole="ChiTietDonHang" />
-          <NavigationProperty Name="KhachHang" Relationship="Self.FK__DonHang__KH__36B12243" FromRole="DonHang" ToRole="KhachHang" />
+          <NavigationProperty Name="KhachHang" Relationship="Self.FK__DonHang__KH__47DBAE45" FromRole="DonHang" ToRole="KhachHang" />
           <NavigationProperty Name="TK" Relationship="Self.FK_DonHang_TK" FromRole="DonHang" ToRole="TK" />
         </EntityType>
         <EntityType Name="KhachHang">
@@ -486,7 +468,7 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
           <Property Name="MatKhau" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="Diem" Type="Int32" />
           <Property Name="TrangThai" Type="Boolean" />
-          <NavigationProperty Name="DonHangs" Relationship="Self.FK__DonHang__KH__36B12243" FromRole="KhachHang" ToRole="DonHang" />
+          <NavigationProperty Name="DonHangs" Relationship="Self.FK__DonHang__KH__47DBAE45" FromRole="KhachHang" ToRole="DonHang" />
           <NavigationProperty Name="TK" Relationship="Self.FK_KhachHang_TK" FromRole="KhachHang" ToRole="TK" />
         </EntityType>
         <EntityType Name="Loai">
@@ -524,7 +506,7 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
           <Property Name="NgayNhap" Type="DateTime" Precision="3" />
           <Property Name="DoanhSo" Type="Int32" />
           <Property Name="SoLuongKho" Type="Int32" />
-          <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK__ChiTietDon__MaSP__3B75D760" FromRole="SanPham" ToRole="ChiTietDonHang" />
+          <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK__ChiTietDon__MaSP__4CA06362" FromRole="SanPham" ToRole="ChiTietDonHang" />
           <NavigationProperty Name="ChiTietDonHangs1" Relationship="Self.FK_GH_SP" FromRole="SanPham" ToRole="ChiTietDonHang" />
           <NavigationProperty Name="DanhGias" Relationship="Self.FK_DanhGia_SanPham" FromRole="SanPham" ToRole="DanhGia" />
           <NavigationProperty Name="Loai" Relationship="Self.FK_SanPham_Loai" FromRole="SanPham" ToRole="Loai" />
@@ -544,15 +526,6 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
           <Property Name="TrangThai" Type="Boolean" />
           <NavigationProperty Name="DonHangs" Relationship="Self.FK_DonHang_TK" FromRole="TK" ToRole="DonHang" />
           <NavigationProperty Name="KhachHangs" Relationship="Self.FK_KhachHang_TK" FromRole="TK" ToRole="KhachHang" />
-        </EntityType>
-        <EntityType Name="Banner">
-          <Key>
-            <PropertyRef Name="MaBanner" />
-            <PropertyRef Name="NgayDangBV" />
-          </Key>
-          <Property Name="MaBanner" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="DuongDan" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
-          <Property Name="NgayDangBV" Type="DateTime" Nullable="false" Precision="3" />
         </EntityType>
         <EntityType Name="SanPhamData">
           <Key>
@@ -579,7 +552,7 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK__ChiTietDon__MaDH__3A81B327">
+        <Association Name="FK__ChiTietDon__MaDH__4BAC3F29">
           <End Role="DonHang" Type="Self.DonHang" Multiplicity="1" />
           <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
           <ReferentialConstraint>
@@ -591,7 +564,7 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK__ChiTietDon__MaSP__3B75D760">
+        <Association Name="FK__ChiTietDon__MaSP__4CA06362">
           <End Role="SanPham" Type="Self.SanPham" Multiplicity="1" />
           <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
           <ReferentialConstraint>
@@ -641,7 +614,7 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK__DonHang__KH__36B12243">
+        <Association Name="FK__DonHang__KH__47DBAE45">
           <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
           <End Role="DonHang" Type="Self.DonHang" Multiplicity="*" />
           <ReferentialConstraint>
@@ -747,17 +720,16 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
           <EntitySet Name="Nhoms" EntityType="Self.Nhom" />
           <EntitySet Name="SanPhams" EntityType="Self.SanPham" />
           <EntitySet Name="TKs" EntityType="Self.TK" />
-          <EntitySet Name="Banners" EntityType="Self.Banner" />
           <EntitySet Name="SanPhamDatas" EntityType="Self.SanPhamData" />
           <AssociationSet Name="FK_DonHang_ChiNhanh" Association="Self.FK_DonHang_ChiNhanh">
             <End Role="ChiNhanh" EntitySet="ChiNhanhs" />
             <End Role="DonHang" EntitySet="DonHangs" />
           </AssociationSet>
-          <AssociationSet Name="FK__ChiTietDon__MaDH__3A81B327" Association="Self.FK__ChiTietDon__MaDH__3A81B327">
+          <AssociationSet Name="FK__ChiTietDon__MaDH__4BAC3F29" Association="Self.FK__ChiTietDon__MaDH__4BAC3F29">
             <End Role="DonHang" EntitySet="DonHangs" />
             <End Role="ChiTietDonHang" EntitySet="ChiTietDonHangs" />
           </AssociationSet>
-          <AssociationSet Name="FK__ChiTietDon__MaSP__3B75D760" Association="Self.FK__ChiTietDon__MaSP__3B75D760">
+          <AssociationSet Name="FK__ChiTietDon__MaSP__4CA06362" Association="Self.FK__ChiTietDon__MaSP__4CA06362">
             <End Role="SanPham" EntitySet="SanPhams" />
             <End Role="ChiTietDonHang" EntitySet="ChiTietDonHangs" />
           </AssociationSet>
@@ -773,7 +745,7 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
             <End Role="SanPham" EntitySet="SanPhams" />
             <End Role="DanhGia" EntitySet="DanhGias" />
           </AssociationSet>
-          <AssociationSet Name="FK__DonHang__KH__36B12243" Association="Self.FK__DonHang__KH__36B12243">
+          <AssociationSet Name="FK__DonHang__KH__47DBAE45" Association="Self.FK__DonHang__KH__47DBAE45">
             <End Role="KhachHang" EntitySet="KhachHangs" />
             <End Role="DonHang" EntitySet="DonHangs" />
           </AssociationSet>
@@ -932,15 +904,6 @@ FROM [dbo].[SanPhamData] AS [SanPhamData]</DefiningQuery>
                 <ScalarProperty Name="Email" ColumnName="Email" />
                 <ScalarProperty Name="Quyen" ColumnName="Quyen" />
                 <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="Banners">
-            <EntityTypeMapping TypeName="QL_JPOPStoreModel.Banner">
-              <MappingFragment StoreEntitySet="Banner">
-                <ScalarProperty Name="MaBanner" ColumnName="MaBanner" />
-                <ScalarProperty Name="DuongDan" ColumnName="DuongDan" />
-                <ScalarProperty Name="NgayDangBV" ColumnName="NgayDangBV" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

@@ -55,7 +55,7 @@ namespace TH03_WebBanHang
         protected void BindData()
         {
             DataTable dt = new DataTable();
-            string dataSource = "DUC-LAPTOP\\NGUYENHOANGDUC";
+            string dataSource = "LAPTOP-229FFV57\\PU";
             string initialCatalog = "QL_JPOPStore";
             string sqlTK = "sa";
             string sqlMK = "1";

@@ -78,24 +78,17 @@
                         <span class="sr-only">Next</span>
                     </a>
                     <ol class="carousel-indicators">
-                        <%--<li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleControls" data-slide-to="1"></li>
                         <li data-target="#carouselExampleControls" data-slide-to="2"></li>
                         <li data-target="#carouselExampleControls" data-slide-to="3"></li>
                         <li data-target="#carouselExampleControls" data-slide-to="4"></li>
                         <li data-target="#carouselExampleControls" data-slide-to="5"></li>
-                        <li data-target="#carouselExampleControls" data-slide-to="6"></li>--%>
-                         <asp:ListView ID="ListView5" runat="server" ItemType="TH03_WebBanHang.Models.Banner" SelectMethod="GetBanner">
-                            <ItemTemplate>
-                                <li data-target="#carouselExampleControls" data-slide-to="<%#:Item.MaBanner%>" class='<%# Eval("MaBanner").ToString() == "0"? "active" : "" %>'></li>
-                            </ItemTemplate>
-                        </asp:ListView>
-
-
+                        <li data-target="#carouselExampleControls" data-slide-to="6"></li>
 
                     </ol> <%--Hình của panel đổi hình --%>
                     <div class="carousel-inner">
-                        <%--<div class="carousel-item active">
+                        <div class="carousel-item active">
                             <img loading="lazy" src="Content\img-vtuber-bg\Kanade Birthday.png" style="height:100%" class="d-block w-100" alt="Background Image 1">
                         </div>
                         <div class="carousel-item">
@@ -121,18 +114,8 @@
                         </div>
                         <div class="carousel-item">
                             <img loading="lazy" src="Content\img-vtuber-bg\Specter.png" style="height:100%" class="d-block w-100" alt="Background Image 3">
-                        </div>--%>
+                        </div>
                         <!-- Thêm các ảnh khác vào đây -->
-                        <asp:ListView ID="ListView6" runat="server" ItemType="TH03_WebBanHang.Models.Banner" SelectMethod="GetBanner">
-                             <ItemTemplate>
-                                 
-                                 <div class='carousel-item <%# Eval("MaBanner").ToString() == "0"? "active" : "" %>'>
-                                    <img loading="lazy" src="<%#:Item.DuongDan %>" style="height:100%" class="d-block w-100" alt="Background Image 2">
-                                </div>
-
-                             </ItemTemplate>
-                         </asp:ListView>
-
                     </div>
                 </div>
 

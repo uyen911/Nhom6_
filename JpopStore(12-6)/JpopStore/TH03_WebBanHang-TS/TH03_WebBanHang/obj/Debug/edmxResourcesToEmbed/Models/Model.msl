@@ -124,15 +124,6 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="Banners">
-      <EntityTypeMapping TypeName="QL_JPOPStoreModel.Banner">
-        <MappingFragment StoreEntitySet="Banner">
-          <ScalarProperty Name="MaBanner" ColumnName="MaBanner" />
-          <ScalarProperty Name="DuongDan" ColumnName="DuongDan" />
-          <ScalarProperty Name="NgayDangBV" ColumnName="NgayDangBV" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="SanPhamDatas">
       <EntityTypeMapping TypeName="QL_JPOPStoreModel.SanPhamData">
         <MappingFragment StoreEntitySet="SanPhamData">

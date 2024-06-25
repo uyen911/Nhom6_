@@ -1,305 +1,297 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\",
+  "WorkspaceRootPath": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\models\\tk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\tk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|c:\\users\\vippr\\dropbox\\pc\\downloads\\jpopstore(22-6)\\jpopstore(12-6)\\jpopstore\\th03_webbanhang-ts\\th03_webbanhang\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\item.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\item.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\addinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\addinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorderall.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorderall.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\detailorderall.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorderall.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorderall.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\detailorderall.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\pay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\pay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\pay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\payqr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\payqr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\payqr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\paycard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\paycard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\paycard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|c:\\users\\vippr\\dropbox\\pc\\downloads\\jpopstore\\th03_webbanhang-ts\\th03_webbanhang\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|c:\\users\\vippr\\dropbox\\pc\\downloads\\jpopstore\\th03_webbanhang-ts\\th03_webbanhang\\models\\tk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\tk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|c:\\users\\vippr\\dropbox\\pc\\downloads\\jpopstore\\th03_webbanhang-ts\\th03_webbanhang\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|c:\\users\\vippr\\dropbox\\pc\\downloads\\jpopstore\\th03_webbanhang-ts\\th03_webbanhang\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\detailorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\item.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|c:\\users\\vippr\\dropbox\\pc\\downloads\\jpopstore\\th03_webbanhang-ts\\th03_webbanhang\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\item.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\item.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\addaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\deleteaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\deleteorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\deleteproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\models\\vnlocal.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\models\\vnlocal.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\models\\vnlocal.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\item.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\item.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\deleteproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\account.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\account.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\account.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\changepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\changepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\changepassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\pay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\pay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\pay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\ordernotification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\ordernotification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\ordernotification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\ordernotification.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\ordernotification.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\ordernotification.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\shop.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\shop.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\shop.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\content\\logo\\jpopstore.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\content\\logo\\jpopstore.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\content\\logo\\jpopstore.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\shop.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\shop.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\shop.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\addaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\addaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\forgot.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\forgot.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\forgot.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\account.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\account.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\account.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerrevenue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerrevenue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerrevenue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\paycard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\paycard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\paycard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\payqr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\payqr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\payqr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\accountorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\accountorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\accountorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\accountorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\accountorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\accountorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\brandorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\brandorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\brandorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerbranch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerbranch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerbranch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\manageraccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\manageraccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\manageraccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\detailorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\detailorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\brandorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\brandorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\brandorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\deleteorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\deleteorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\success.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\success.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\success.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\manageraccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\manageraccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\manageraccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\childform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\childform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\childform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\childform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\childform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\childform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\forgot.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\forgot.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\forgot.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\help\\hepler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\help\\hepler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\help\\hepler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerrevenue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerrevenue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerrevenue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerbranch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\managerbranch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\managerbranch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\getpermission.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\th03_webbanhang\\getpermission.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EE8F72-7A0A-48BC-BA55-121391D51A65}|TH03_WebBanHang\\TH03_WebBanHang.csproj|solutionrelative:th03_webbanhang\\getpermission.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -313,9 +305,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore 14-5\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -325,7 +314,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 341,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -337,72 +326,231 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\KhachHang.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\KhachHang.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\KhachHang.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Models\\KhachHang.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA1wCoAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Pay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Pay.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Pay.aspx.cs",
+              "ViewState": "AQIAAB0CAAAAAAAAAAAAACAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:39:05.747Z",
+              "WhenOpened": "2024-03-29T16:00:45.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayCard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayCard.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\PayCard.aspx.cs",
+              "ViewState": "AQIAAI8CAAAAAAAAAAAawKUCAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:01:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailOrderAll.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DetailOrderAll.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\DetailOrderAll.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T14:08:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailOrderAll.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DetailOrderAll.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\DetailOrderAll.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA8wBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:09:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerOrder.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerOrder.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerOrder.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T18:01:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerOrder.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerOrder.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerOrder.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA+wCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:21:41.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\AddProduct.aspx.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA+wDEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T00:17:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TK.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\TK.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\TK.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\TK.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Models\\TK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:23:48.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\SanPham.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:23:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\KhachHang.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Models\\KhachHang.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:23:12.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\Model.edmx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-11T18:22:31.342Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Web.config",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Web.config",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Web.config",
+              "RelativeToolTip": "TH03_WebBanHang\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T18:25:10.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AddInfo.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddInfo.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddInfo.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddInfo.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\AddInfo.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-24T18:41:59.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Default.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Title": "PayQR.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayQR.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\PayQR.aspx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T17:30:27.811Z"
+              "WhenOpened": "2024-04-03T09:44:27.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SignIn.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignIn.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\SignIn.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:18:47.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddProduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddProduct.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\AddProduct.aspx.cs",
-              "ViewState": "AQIAABYCAAAANDMzM7MiwCoCAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "DetailOrder.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DetailOrder.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\DetailOrder.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA+wCcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:17:15.783Z"
+              "WhenOpened": "2024-03-29T16:13:41.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
+              "Title": "Item.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Item.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Item.aspx.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAIAwwDsBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:18:39.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\AddAccount.aspx.cs",
+              "ViewState": "AQIAAKIAAAAAzszMzIwuwLEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:12:51.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteAccount.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteAccount.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\DeleteAccount.aspx.cs",
+              "ViewState": "AQIAAGsAAAAAXGZmZmbuv1oAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:07:18.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx",
               "RelativeDocumentMoniker": "TH03_WebBanHang\\Default.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx",
               "RelativeToolTip": "TH03_WebBanHang\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -411,887 +559,760 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Item.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Item.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Item.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-27T17:06:15.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\SanPham.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\SanPham.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\SanPham.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Models\\SanPham.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:39:12.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TK.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\TK.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\TK.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\TK.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Models\\TK.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:39:40.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddInfo.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddInfo.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddInfo.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddInfo.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\AddInfo.aspx.cs",
-              "ViewState": "AQIAAAsAAAAAmpmZmZkrwBQAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:42:08.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Model.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\Model.edmx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
-              "RelativeToolTip": "TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-24T18:38:38.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Web.config",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Web.config",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Web.config",
-              "RelativeToolTip": "TH03_WebBanHang\\Web.config",
-              "ViewState": "AQIAAAAAAABAY2ZmZqYqwDsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-02T18:25:10.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ManagerOrder.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerOrder.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerOrder.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA+wCkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T18:21:41.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ManagerOrder.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerOrder.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerOrder.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerOrder.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-29T18:01:02.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DetailOrderAll.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DetailOrderAll.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\DetailOrderAll.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA8wBYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T14:09:36.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DetailOrderAll.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DetailOrderAll.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrderAll.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\DetailOrderAll.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-17T14:08:57.752Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "PayCard.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayCard.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\PayCard.aspx.cs",
-              "ViewState": "AQIAAI8CAAAAAAAAAAAawKUCAAA6AAAA",
+              "Title": "DeleteOrder.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteOrder.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\DeleteOrder.aspx.cs",
+              "ViewState": "AQIAAGcAAADAYWZmZqYwwCUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T16:01:50.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Pay.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Pay.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Pay.aspx.cs",
-              "ViewState": "AQIAAB0CAAAAAAAAAAAAACAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T16:00:45.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "Model.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\..\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-11T18:22:31.342Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PayQR.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayQR.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\PayQR.aspx.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAEMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T09:44:27.154Z"
+              "WhenOpened": "2024-04-13T12:05:38.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DetailOrder.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DetailOrder.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\DetailOrder.aspx.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA+wCcAAAAPAAAA",
+              "Title": "DeleteProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\DeleteProduct.aspx.cs",
+              "ViewState": "AQIAACYAAADwwMzMzMwdwDMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T16:13:41.689Z"
+              "WhenOpened": "2024-03-31T00:29:03.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Item.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Item.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Item.aspx.cs",
-              "ViewState": "AQIAAC0BAAAAAAAAAIAwwDsBAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T17:18:39.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AddAccount.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddAccount.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\AddAccount.aspx.cs",
-              "ViewState": "AQIAAKIAAAAAzszMzIwuwLEAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:12:51.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DeleteAccount.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteAccount.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteAccount.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteAccount.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\DeleteAccount.aspx.cs",
-              "ViewState": "AQIAAGsAAAAAXGZmZmbuv1oAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T09:07:18.935Z"
+              "Title": "VNLocal.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNLocal.edmx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\VNLocal.edmx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNLocal.edmx [Diagram1]",
+              "RelativeToolTip": "TH03_WebBanHang\\Models\\VNLocal.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-04T13:21:20.544Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "DeleteOrder.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteOrder.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\DeleteOrder.aspx.cs",
-              "ViewState": "AQIAAGcAAADAYWZmZqYwwCUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T12:05:38.206Z"
+              "Title": "Account.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Account.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Account.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-30T14:21:11.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DeleteProduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteProduct.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\DeleteProduct.aspx.cs",
-              "ViewState": "AQIAACYAAADwwMzMzMwdwDMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:29:03.865Z"
+              "DocumentIndex": 22,
+              "Title": "DeleteProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteProduct.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\DeleteProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-01T12:21:29.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Item.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Item.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Item.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Item.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-27T17:06:15.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "VNlocal.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNLocal.edmx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Models\\VNLocal.edmx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNLocal.edmx [Diagram1]",
-              "RelativeToolTip": "TH03_WebBanHang\\Models\\VNLocal.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-04T13:21:20.544Z"
+              "Title": "ChangePassword.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChangePassword.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\ChangePassword.aspx.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAQwEQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:20:25.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Account.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Account.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Account.aspx",
+              "DocumentIndex": 24,
+              "Title": "ChangePassword.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChangePassword.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\ChangePassword.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-30T14:21:11.529Z"
+              "WhenOpened": "2024-04-02T18:20:17.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "DeleteProduct.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteProduct.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteProduct.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\DeleteProduct.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-01T12:21:29.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ChangePassword.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChangePassword.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\ChangePassword.aspx.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAQwEQAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T18:20:25.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ChangePassword.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChangePassword.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChangePassword.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\ChangePassword.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:20:17.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "Pay.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx",
               "RelativeDocumentMoniker": "TH03_WebBanHang\\Pay.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Pay.aspx",
               "RelativeToolTip": "TH03_WebBanHang\\Pay.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:20:37.853Z"
+              "WhenOpened": "2024-04-02T18:20:37.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 76,
               "Title": "Model.edmx",
               "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore 14-5\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\JpopStore 14-5\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "..\\..\\JpopStore 14-5\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
               "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore 14-5\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
-              "RelativeToolTip": "..\\..\\..\\..\\JpopStore 14-5\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
+              "RelativeToolTip": "..\\..\\JpopStore 14-5\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-05-22T13:28:14.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 28,
               "Title": "OrderNotification.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx.cs",
               "RelativeDocumentMoniker": "TH03_WebBanHang\\OrderNotification.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx.cs",
               "RelativeToolTip": "TH03_WebBanHang\\OrderNotification.aspx.cs",
               "ViewState": "AQIAALAAAAAAAAAAAIBZwM0AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:47:30.819Z"
+              "WhenOpened": "2024-05-22T15:47:30.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 27,
               "Title": "OrderNotification.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx",
               "RelativeDocumentMoniker": "TH03_WebBanHang\\OrderNotification.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\OrderNotification.aspx",
               "RelativeToolTip": "TH03_WebBanHang\\OrderNotification.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-22T15:47:08.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ManagerProduct.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerProduct.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerProduct.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:18:29.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Shop.Master.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Shop.Master.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Shop.Master.cs",
-              "ViewState": "AQIAAAYAAAAAZmZmZuYcwGYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T20:07:54.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Cart.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Cart.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Cart.aspx.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAxwIcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T17:44:56.942Z"
+              "WhenOpened": "2024-05-22T15:47:08.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
+              "Title": "ManagerProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerProduct.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:18:29.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Shop.Master.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Shop.Master.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Shop.Master.cs",
+              "ViewState": "AQIAAAYAAAAAZmZmZuYcwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:07:54.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Default.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Default.aspx.cs",
+              "ViewState": "AQIAABgAAACANDMzMzMuwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:30:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Cart.aspx.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAxwIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:44:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Shop.Master",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master",
               "RelativeDocumentMoniker": "TH03_WebBanHang\\Shop.Master",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Shop.Master",
               "RelativeToolTip": "TH03_WebBanHang\\Shop.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-03-27T17:25:39.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 50,
               "Title": "DetailOrder.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx",
               "RelativeDocumentMoniker": "TH03_WebBanHang\\DetailOrder.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DetailOrder.aspx",
               "RelativeToolTip": "TH03_WebBanHang\\DetailOrder.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-29T16:12:40.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "AccountOrder.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AccountOrder.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\AccountOrder.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-29T17:59:03.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Cart.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Cart.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Cart.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-29T23:32:59.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ManagerRevenue.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerRevenue.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerRevenue.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-30T14:40:56.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "ManagerBranch.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerBranch.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerBranch.aspx.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAlwB0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T18:44:56.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ManagerBranch.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerBranch.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerBranch.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-30T18:45:04.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "BrandOrder.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\BrandOrder.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\BrandOrder.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwGUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T18:51:19.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Success.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Success.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Success.aspx.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAASwHYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T19:09:41.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Account.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Account.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Account.aspx.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAIBZwDsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T21:26:47.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "AddProduct.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddProduct.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\AddProduct.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-31T00:15:54.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ManagerAccount.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerAccount.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerAccount.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:18:38.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "SignUp.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignUp.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\SignUp.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:18:57.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "Error.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Error.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Error.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Error.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Error.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:19:09.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "About.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\About.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\About.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\About.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\About.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:19:17.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Forgot.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Forgot.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Forgot.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:19:27.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Forgot.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Forgot.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Forgot.aspx.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAAwKMAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T18:19:34.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Success.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Success.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Success.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:20:51.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "ChildForm.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChildForm.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\ChildForm.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:22:43.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "ChildForm.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChildForm.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\ChildForm.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBcAAABNBQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T18:22:58.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Contact.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Contact.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Contact.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:23:08.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Contact.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Contact.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Contact.aspx.cs",
-              "ViewState": "AQIAACUAAAAAzMzMzMwmwCAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T18:23:18.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "BrandOrder.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\BrandOrder.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\BrandOrder.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T18:39:43.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "SignIn.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignIn.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\SignIn.aspx.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDgAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:07:15.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "SignUp.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignUp.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\SignUp.aspx.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAUwG0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:12:34.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "AccountOrder.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AccountOrder.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\AccountOrder.aspx.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAgwNEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:47:24.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "Admin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Admin.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Admin.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:47:36.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "GetPermission.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\GetPermission.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\GetPermission.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\GetPermission.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\GetPermission.aspx.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAuwCAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:47:50.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "ManagerAccount.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerAccount.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerAccount.aspx.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAwEcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:47:59.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ManagerProduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerProduct.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerProduct.aspx.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwCoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:48:09.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "ManagerRevenue.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerRevenue.aspx.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\ManagerRevenue.aspx.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAqwFsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:48:18.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "AddAccount.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddAccount.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\AddAccount.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-02T20:05:15.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "PayQR.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayQR.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\PayQR.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-03T09:44:16.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "Admin.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Admin.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\Admin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-11T11:43:36.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "DeleteOrder.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteOrder.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\DeleteOrder.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-13T12:04:57.066Z"
+              "WhenOpened": "2024-03-29T16:12:40.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "PayCard.aspx",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayCard.aspx",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx",
-              "RelativeToolTip": "TH03_WebBanHang\\PayCard.aspx",
+              "Title": "AccountOrder.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\AccountOrder.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\AccountOrder.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-13T17:27:22.89Z"
+              "WhenOpened": "2024-03-29T17:59:03.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Hepler.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Help\\Hepler.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Help\\Hepler.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Help\\Hepler.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Help\\Hepler.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAABmAAAA",
+              "DocumentIndex": 40,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Cart.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Cart.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T23:32:59.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ManagerRevenue.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerRevenue.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerRevenue.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-30T14:40:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ManagerBranch.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerBranch.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerBranch.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAlwB0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T15:41:09.881Z"
+              "WhenOpened": "2024-03-30T18:44:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ManagerBranch.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerBranch.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerBranch.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerBranch.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-30T18:45:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BrandOrder.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\BrandOrder.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\BrandOrder.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T18:51:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Success.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Success.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Success.aspx.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAASwHYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T19:09:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Account.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Account.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Account.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Account.aspx.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAIBZwDsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:26:47.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddProduct.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddProduct.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\AddProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T00:15:54.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ManagerAccount.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerAccount.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerAccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:18:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SignIn.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignIn.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\SignIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:18:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:18:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Error.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Error.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Error.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Error.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Error.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:19:09.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\About.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\About.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\About.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:19:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Forgot.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Forgot.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Forgot.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:19:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Forgot.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Forgot.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Forgot.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Forgot.aspx.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAwKMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:19:34.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 60,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Global.asax.cs",
-              "RelativeDocumentMoniker": "TH03_WebBanHang\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Global.asax.cs",
-              "RelativeToolTip": "TH03_WebBanHang\\Global.asax.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T20:48:13.604Z"
+              "Title": "Success.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Success.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Success.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Success.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:20:51.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 59,
+              "Title": "ChildForm.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChildForm.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\ChildForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:22:43.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ChildForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ChildForm.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ChildForm.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\ChildForm.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBcAAABNBQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:22:58.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Contact.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:23:08.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Contact.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Contact.aspx.cs",
+              "ViewState": "AQIAACUAAAAAzMzMzMwmwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:23:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BrandOrder.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\BrandOrder.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\BrandOrder.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\BrandOrder.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T18:39:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SignIn.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignIn.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignIn.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\SignIn.aspx.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:07:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\SignUp.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\SignUp.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:12:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AccountOrder.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\AccountOrder.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AccountOrder.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\AccountOrder.aspx.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwNEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:47:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Admin.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:47:36.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GetPermission.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\GetPermission.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\GetPermission.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\GetPermission.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\GetPermission.aspx.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:47:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ManagerAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerAccount.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerAccount.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:47:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManagerProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerProduct.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerProduct.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:48:09.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ManagerRevenue.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\ManagerRevenue.aspx.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\ManagerRevenue.aspx.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\ManagerRevenue.aspx.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAqwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:48:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddAccount.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\AddAccount.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\AddAccount.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\AddAccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T20:05:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PayQR.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayQR.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayQR.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\PayQR.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-03T09:44:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Admin.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Admin.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-11T11:43:36.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeleteOrder.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\DeleteOrder.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\DeleteOrder.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\DeleteOrder.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T12:04:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PayCard.aspx",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\PayCard.aspx",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\PayCard.aspx",
+              "RelativeToolTip": "TH03_WebBanHang\\PayCard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T17:27:22.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Hepler.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Help\\Hepler.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Help\\Hepler.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Help\\Hepler.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Help\\Hepler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:41:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Global.asax.cs",
+              "RelativeDocumentMoniker": "TH03_WebBanHang\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Global.asax.cs",
+              "RelativeToolTip": "TH03_WebBanHang\\Global.asax.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:48:13.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
               "Title": "VNlocal.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNlocal.edmx",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNlocal.edmx",
+              "RelativeDocumentMoniker": "..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNlocal.edmx",
               "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNlocal.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNlocal.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\VNlocal.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-04-16T06:19:34.782Z",
               "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 74,
               "Title": "Model.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
               "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\JpopStore22-4\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-04-24T12:34:26.55Z",
               "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 30,
               "Title": "jpopstore.png",
-              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Content\\logo\\jpopstore.png",
+              "DocumentMoniker": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Content\\logo\\jpopstore.png",
               "RelativeDocumentMoniker": "TH03_WebBanHang\\Content\\logo\\jpopstore.png",
-              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore(22-6)\\JpopStore(12-6)\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Content\\logo\\jpopstore.png",
+              "ToolTip": "C:\\Users\\vippr\\Dropbox\\PC\\Downloads\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Content\\logo\\jpopstore.png",
               "RelativeToolTip": "TH03_WebBanHang\\Content\\logo\\jpopstore.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-04-24T12:44:54.596Z"
+              "WhenOpened": "2024-04-24T12:44:54.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 75,
               "Title": "Model.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\vippr\\OneDrive\\Desktop\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\OneDrive\\Desktop\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx",
               "ToolTip": "C:\\Users\\vippr\\OneDrive\\Desktop\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\OneDrive\\Desktop\\JpopStore 11-5\\JpopStore 9-5\\JpopStore\\TH03_WebBanHang-TS\\TH03_WebBanHang\\Models\\Model.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-05-14T09:58:51.586Z",
               "EditorCaption": " [Diagram1]"

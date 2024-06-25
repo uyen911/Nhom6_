@@ -18,14 +18,7 @@ MaTK INT IDENTITY(1,1) PRIMARY KEY ,
 )
 GO
 
-CREATE TABLE Banner
-(
-    MaBanner INT IDENTITY(0,1),
-    DuongDan varchar(Max) NULL,
-	NgayDangBV DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
-    
-);
-GO
+
 create table Loai
 (
 	MaLoai varchar(10) not null,
@@ -284,18 +277,7 @@ values
 ('ALBSP07',N'Aster - Tokoyami Towa','Content/items/JPGen4/Album/Aster1.png',450000,N'Aster - Tokoyami Towa','1','JPGen4','23-07-2022','30-07-2023',0,50)
 
 go
-INSERT INTO Banner(DuongDan)
-VALUES	('Content\img-vtuber-bg\MumeiNewOutfit.png'),
-		('Content\img-vtuber-bg\Specter.png'),
-		('Content\img-vtuber-bg\NightWalk.png'),
-		('Content\img-vtuber-bg\AyaFubuMi Situation vol3.png'),
-		('Content\img-vtuber-bg\Area15 4thAnniversary.png'),
-		('Content\img-vtuber-bg\Korone 5thAnniversary.png'),
-		('Content\img-vtuber-bg\Bijou Birthday.png'),
-		('Content\img-vtuber-bg\HoloFantasy Celebration.png'),
-		('Content\img-vtuber-bg\Kanade Birthday.png');
 
-go
 
 --INSERT INTO SanPham
 --VALUES 
